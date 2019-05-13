@@ -1,0 +1,111 @@
+#logo {
+			margin-top: 5px;
+			height: 50px;
+			width: 60px;
+			}
+#pasirinkimas {
+	margin-top: 10px;
+	margin-right: 15px;
+
+}
+
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+  #logo2 {
+  	height: 100px;
+			width: 100px;
+  }
+  #teamLogo {
+    width: 100%;
+  }
+  #map1, #map2, #map3, #map4 {
+        height: 400px; 
+        width: 100%; 
+       }
+
+  #foto1{
+    height: 100%;
+    width: 100%;
+  }
+
+  #card1 {
+
+	  	height: 100%;
+			width: 100%;
+  
+  } 
+  #taisykles{
+    margin-left: 10px;
+  }  
+
+
+  #taisykles{
+    margin-left: 10px;
+  }  
+
+  table {
+    height: 400px;
+    width: 100%;
+    margin-left: 15px;
+
+  }
+
+#nuotrauka {
+	   width: 100%;
+    height: 100%;
+
+}
+#myChart {
+	max-height: 100%;
+	max-width:  100%;
+}
+#parallaxAukstis {
+      height: 700px;
+
+    }
+#profil {
+  width: 100%;
+  height: 100%;
+
+}
+#karusele1 {
+	background-image: url('https://img.uefa.com/UploadedMedia/1/41239/F101/3286116_1665601.jpg');
+	background-size: 100%;
+
+
+}
+#karusele2 {
+	background-image: url('https://static3.sportas.lt/usi/662x442/3/04/2e/73/042e73efeeebba4f8490f80ae26491d2.jpg?v=1.0.4.45&t=cr&s=662x442&m=3&f=/Uploads/UArticles/leadPhotos/7f/6b/59/8a/7f6b598ab8ebf0e4958eccda089cb0fa.jpg');
+	background-size: 100%;
+
+}
+#karusele3 {
+	background-image: url('https://static3.sportas.lt/usi/662x442/3/39/3b/42/393b42f6ae9eb5d710282721e5416f60.jpg?v=1.0.4.45&t=cr&s=662x442&m=3&f=/Uploads/UArticles/leadPhotos/16/d4/a9/26/16d4a9267c2dade260b421865d70c960.jpg');
+	background-size: 100%;
+
+}
+#karusele4 {
+	background-image: url('https://static3.sportas.lt/usi/662x442/3/e6/71/1a/e6711a7054e76b181467cc53c894050d.jpg?v=1.0.4.45&t=cr&s=662x442&m=3&f=/Uploads/UArticles/leadPhotos/6f/ee/ff/30/6feeff308fad73985a47714d401aa772.jpg');
+	background-size: 100%;
+
+}
+#karusele5 {
+	background-image: url('https://images.beinsports.com/fDp9lMVHBfJBVBzUm-a0T-cwcTI=/1300x731/smart/2639650-2019-04-16T203340Z_2051475161_RC1F80AB49F0_RTRMADP_3_SOCCER-CHAMPIONS-JUV-AJA.JPG');
+	background-size: 100%;
+
+}
+
+
+#lentele {
+  width: 100%;
+}
+#dydis {
+  max-height: 180px;
+}
